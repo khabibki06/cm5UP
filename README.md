@@ -35,5 +35,5 @@ Regards,
 
 Khabib Khumaini
 
-Department of Chemistry, Universitas Pertamina
+Department of Chemistry, Universitas Pertamina, Indonesia
 
