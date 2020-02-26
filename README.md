@@ -5,6 +5,8 @@ I created this c++ program without needed any dependence with other packages. So
 
 The binary for win_64 and linux can be downloaded in the binary folder. It also can be compiled in any OS with standard C++ library.
 
+This program supports all atoms in list in publication (Marenich, Jerome, Cramer, & Truhlar, 2012) which are from H up to Ca, Zn, Ge, Se, As, Br, and I. The atomic data is stored in atomdata.cpp 
+
 ## How to use
 1. You need ORCA log file containing Hirshfeld charge analysis. It can be accomplished by adding these lines in ORCA input file
 
