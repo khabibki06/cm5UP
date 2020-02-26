@@ -16,9 +16,7 @@ This program supports all atoms in list in publication (Marenich, Jerome, Cramer
   
     end
   
-2. To generate CM5 charge group
-
-   Syntax: cm5UP -i orcaoutputfilename -o outputname
+2. To generate CM5 charge group. **Syntax: cm5UP -i orcaoutputfilename -o outputname**
    
     -i orcaoutputfilename : (mandatory) orca log file.
     
