@@ -8,11 +8,12 @@ The binary for win_64 and linux can be downloaded in the binary folder. It also 
 ## How to use
 1. You need ORCA log file containing Hirshfeld charge analysis. It can be accomplished by adding these lines in ORCA input file
 
-  %output
+    %output
   
-  Print[ P_Hirshfeld] 1
+     Print[ P_Hirshfeld] 1
   
-  end
+    end
+  
 2. To generate CM5 charge group
 
    Syntax: cm5UP -i orcaoutputfilename -o outputname
