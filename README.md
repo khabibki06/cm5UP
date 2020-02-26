@@ -1,5 +1,5 @@
 # cm5UP
-cm5UP is a small program to calculate CM5 charge group from ORCA output file. It is inspired from similiar python program [ligpargen]https://github.com/leelasd/ligpargen/wiki/How-to-get-CM5-charges-for-Condensed-Phase-Simulations. 
+cm5UP is a small program to calculate CM5 charge group from ORCA output file. It is inspired from similiar python program [ligpargen]<https://github.com/leelasd/ligpargen/wiki/How-to-get-CM5-charges-for-Condensed-Phase-Simulations>. 
 
 I created this c++ program without needed any dependence with other packages. So, it can be used in any computer without need any previous program/add ons as long as the OS is be supported. 
 
