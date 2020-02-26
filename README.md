@@ -32,6 +32,8 @@ The binary for win_64 and linux can be downloaded in the binary folder. It also 
 There are some examples : orca input file, orca log file, csv output file and XYZ file in examples folder
 
 Regards,
+
 Khabib Khumaini
+
 Department of Chemistry, Universitas Pertamina
 
